@@ -1,0 +1,37 @@
+[{
+  "_id": "178ea828-c5c6-4067-817e-31f6cc12decf",
+  "username": "milos",
+  "name": "Miloš",
+  "surname": "Stojković",
+  "password": "root",
+  "apartmentNumber": 1,
+  "_class": "rs.devlabs.slozna.zgrada.data.User",
+  "role": "UPRAVNIK"
+},{
+  "_id": "3d5ac9ed-93b2-46ad-8ea7-d3a0d9523776",
+  "username": "teodora",
+  "name": "Teodora",
+  "surname": "Đorđević",
+  "password": "root",
+  "apartmentNumber": 2,
+  "_class": "rs.devlabs.slozna.zgrada.data.User",
+  "role": "STANAR"
+},{
+  "_id": "a53a2b19-30fe-4c6a-b02b-68e06ade0f5f",
+  "username": "lazar",
+  "name": "Lazar",
+  "surname": "Kadić",
+  "password": "root",
+  "apartmentNumber": 3,
+  "_class": "rs.devlabs.slozna.zgrada.data.User",
+  "role": "STANAR"
+},{
+  "_id": "132f2c29-022f-4045-b859-957018e2b7fe",
+  "username": "rakic",
+  "name": "Lazar",
+  "surname": "Rakić",
+  "password": "root",
+  "apartmentNumber": 4,
+  "role": "STANAR",
+  "_class": "rs.devlabs.slozna.zgrada.data.User"
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": "68b2a76c-c58d-48c9-9eb2-c7838856499b",
+  "title": "Voda",
+  "text": "Obavestavaju se svi stanari da ce iskljucenje vode biti od 13h do 15h u subotu.",
+  "likes": 3,
+  "created": 1644419567344,
+  "userId": "178ea828-c5c6-4067-817e-31f6cc12decf",
+  "_class": "rs.devlabs.slozna.zgrada.data.Notification"
+},{
+  "_id": "f7a79dba-562b-4587-b4cb-500f80bef544",
+  "title": "Lift",
+  "text": "Ne radi lift u zgradi.",
+  "likes": 1,
+  "created": 1644419769278,
+  "userId": "3d5ac9ed-93b2-46ad-8ea7-d3a0d9523776",
+  "_class": "rs.devlabs.slozna.zgrada.data.Notification"
+}]
